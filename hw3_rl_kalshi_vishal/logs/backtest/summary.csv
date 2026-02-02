@@ -1,0 +1,4 @@
+name,mean_final,mean_pnl,sharpe_proxy,max_drawdown_proxy
+hold,10000.0,0.0,0.0,0.0
+momentum,9996.829641225142,-3.1703587748570135,-60.023511353328644,-3.1703587748579594
+ppo_rl,10000.0,0.0,0.0,0.0
